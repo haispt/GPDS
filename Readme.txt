@@ -1,8 +1,8 @@
 # The Gradual Process Discovery System
-The Gradual Process Discovery System - DPE from Kyongi University
+The Gradual Process Discovery System by Data and Process Engineering Laboratory at Kyonggi University
 
 # 1. Introduction
-This system aims to provide a web process miner using Django that anyone can use. 
+This system aims to provide a web process miner that anyone can use Django. 
 This system is up and running right out of the box and has a basic setup you can extend.
 The research group developed this tool from the Data and Process Engineering Laboratory at KYONGGI UNIVERSITY. Our laboratory has been established since 1998.
 
